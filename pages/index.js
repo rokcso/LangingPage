@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>ROKCSO - rokcso.com</title>
+        <title>ROKCSO Landing Page - rokcso.com</title>
         <meta name="description" content="rokcso's official landing page." />
         <link rel="icon" href="/favicon/icon16x16.png" />
         <link rel="icon" href="/favicon/icon32x32.png" />
