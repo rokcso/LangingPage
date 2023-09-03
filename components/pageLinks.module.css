@@ -1,0 +1,11 @@
+.linkPage {
+    display: flex;
+}
+
+.link {
+    margin-right: 10px;
+}
+
+.link h3 {
+    margin: 0;
+}

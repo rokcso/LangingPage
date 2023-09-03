@@ -1,0 +1,24 @@
+.product {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.productArticle + .productArticle {
+    border-top: 1px solid #141E46;
+    margin-top: 20px;
+}
+
+.logo {
+    width: 60px;
+    margin-right: 20px;
+}
+
+.detail h3 {
+    margin: 0;
+    margin-bottom: 5px;
+}
+
+.detail p {
+    margin: 0;
+}
