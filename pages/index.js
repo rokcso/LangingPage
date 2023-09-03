@@ -16,6 +16,11 @@ export default function Home() {
         <link rel="icon" href="/favicon/icon48x48.png" />
         <link rel="icon" href="/favicon/icon64x64.png" />
         <link rel="icon" href="/favicon/icon128x128.png" />
+        <script
+          async
+          src="https://umami.rokcso.com/script.js"
+          data-website-id="11d3cd91-9f13-43e3-ae19-20e6e6e34bcb"
+        ></script>
       </Head>
       <Profile />
       <h4>PAGE LINKS</h4>
