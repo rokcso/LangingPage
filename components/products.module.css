@@ -5,7 +5,7 @@
 }
 
 .productArticle + .productArticle {
-    border-top: 1px solid #141E46;
+    border-top: 1px solid #999999;
     margin-top: 20px;
 }
 
