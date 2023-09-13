@@ -2,13 +2,13 @@
     {
         "name": "URLxcode",
         "slogan": "Online URL encode & decode tool.",
-        "logo": "/images/urlxcode.png",
+        "logo": "https://www.urlxcode.com/favicon/urlxcode.png",
         "link": "https://www.urlxcode.com/"
     },
     {
         "name": "盘搜 VIP",
         "slogan": "网盘搜索引擎聚合导航站。",
-        "logo": "/images/pansouvip.png",
+        "logo": "https://www.pansou.vip/favicon/pansouvip.png",
         "link": "https://www.pansou.vip/"
     }
 ]
