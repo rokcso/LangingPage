@@ -9,13 +9,9 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>ROKCSO Landing Page - rokcso.com</title>
-        <meta name="description" content="rokcso's official landing page." />
-        <link rel="icon" href="/favicon/icon16x16.png" />
-        <link rel="icon" href="/favicon/icon32x32.png" />
-        <link rel="icon" href="/favicon/icon48x48.png" />
-        <link rel="icon" href="/favicon/icon64x64.png" />
-        <link rel="icon" href="/favicon/icon128x128.png" />
+        <title>rokcso Studio Landing Page - rokcso.com</title>
+        <meta name="description" content="rokcso Studio's official landing page." />
+        <link rel="icon" href="/assets/favicon.ico" />
         <script
           async
           src="https://umami.rokcso.com/script.js"
