@@ -1,5 +1,11 @@
 [
     {
+        "name": "氢刻知间 Newsletter",
+        "slogan": "Fleeting information. Flowing information.",
+        "logo": "https://avatars.githubusercontent.com/u/47956905?v=4",
+        "link": "https://github.com/rokcso/weekly"
+    },
+    {
         "name": "URLxcode",
         "slogan": "Online URL encode & decode tool.",
         "logo": "https://www.urlxcode.com/favicon/urlxcode.png",
