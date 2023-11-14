@@ -9,8 +9,11 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>rokcso Studio Landing Page - rokcso.com</title>
-        <meta name="description" content="rokcso Studio's official landing page." />
+        <title>rokcso's Landing Page - rokcso.com</title>
+        <meta
+          name="description"
+          content="rokcso's Landing Page. I build for myself first."
+        />
         <link rel="icon" href="/assets/favicon.ico" />
         <script
           async
