@@ -16,5 +16,11 @@
         "slogan": "网盘搜索引擎聚合导航站。",
         "logo": "https://www.pansou.vip/favicon/pansouvip.png",
         "link": "https://www.pansou.vip/"
+    },
+    {
+        "name": "Feishu Document Creator",
+        "slogan": "A Raycast extension. Create Feishu/Lark online document quickly using native Feishu/Lark URLs.",
+        "logo": "/assets/Raycast.png",
+        "link": "https://www.raycast.com/rokcso/feishu-document-creator"
     }
 ]
