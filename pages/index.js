@@ -26,6 +26,16 @@ export default function Home() {
       <PageLinks pageLinksInfo={pageLinksInfo} />
       <h4>PRODUCTS</h4>
       <Products producstInfo={productsInfo} />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
     </>
   );
 }
