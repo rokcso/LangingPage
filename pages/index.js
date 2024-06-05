@@ -26,6 +26,16 @@ export default function Home() {
       <PageLinks pageLinksInfo={pageLinksInfo} />
       <h4>PRODUCTS</h4>
       <Products producstInfo={productsInfo} />
+      <h4>DONATE</h4>
+      <a href="https://ko-fi.com/D1D4YYEMT" target="_blank">
+        <img
+          height="36"
+          style={{ border: "0px", height: "36px" }}
+          src="https://storage.ko-fi.com/cdn/kofi1.png?v=3"
+          border="0"
+          alt="Buy Me a Coffee at ko-fi.com"
+        />
+      </a>
       <br />
       <br />
       <br />
