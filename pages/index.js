@@ -26,6 +26,13 @@ export default function Home() {
       <PageLinks pageLinksInfo={pageLinksInfo} />
       <h4>PRODUCTS</h4>
       <Products producstInfo={productsInfo} />
+      <h4>POSTS</h4>
+      <a href="https://blog.rokcso.com/">
+        <div>
+          <h3>Blog</h3>
+          <p>Daily recording and sharing.</p>
+        </div>
+      </a>
       <h4>DONATE</h4>
       <a href="https://ko-fi.com/D1D4YYEMT" target="_blank">
         <img

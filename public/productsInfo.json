@@ -22,11 +22,5 @@
         "slogan": "A Raycast extension. Create Feishu/Lark online document quickly using native Feishu/Lark URLs.",
         "logo": "/assets/Raycast.png",
         "link": "https://www.raycast.com/rokcso/feishu-document-creator"
-    },
-    {
-        "name": "氢刻知间 Newsletter",
-        "slogan": "Fleeting information. Flowing information.",
-        "logo": "https://avatars.githubusercontent.com/u/47956905?v=4",
-        "link": "https://github.com/rokcso/weekly"
     }
 ]
