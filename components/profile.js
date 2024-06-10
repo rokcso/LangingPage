@@ -1,3 +1,4 @@
+import AdBanner from "./adBanner";
 import styles from "./profile.module.css";
 
 export default function Profile() {
@@ -14,6 +15,7 @@ export default function Profile() {
           This is <span>rokcso</span>. I know a little about development and
           design. I build for myself first.
         </h1>
+        <AdBanner />
       </div>
     </>
   );
